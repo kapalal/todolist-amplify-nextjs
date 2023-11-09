@@ -1,0 +1,229 @@
+repo_name: kapalal/todolist-amplify-nextjs
+report_id: a1e7ff788a7a6b02425b8cd70e8e9a9b
+repo_type: Public
+timestamp: '2023-11-09T17:32:18+00:00'
+requested_by: rakannimer
+provider: github
+branch: master
+detected_tools_count: 16
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: package.json
+  last_updated_by: rakannimer
+  last_updated_on: 2019-07-24 14:58:26.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source: Repo Metadata
+- name: Next.js
+  description: 'A small framework for server-rendered universal JavaScript apps '
+  website_url: https://nextjs.org/
+  version: 9.0.2
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: rakannimer
+  last_updated_on: 2019-07-24 14:58:26.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source: package.json
+  last_updated_by: rakannimer
+  last_updated_on: 2019-07-24 14:58:26.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.8.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: rakannimer
+  last_updated_on: 2019-07-24 14:58:26.000000000 Z
+- name: GraphQL
+  description: A data query language and runtime
+  website_url: http://graphql.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Query Languages
+  image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source: schema.graphql
+  last_updated_by: rakannimer
+  last_updated_on: 2019-07-25 11:59:42.000000000 Z
+- name: AWS Amplify
+  description: JavaScript Open Source Library with React, React Native Extensions
+  website_url: https://github.com/aws/aws-amplify
+  version: 1.0.29
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: AWS Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: rakannimer
+  last_updated_on: 2019-07-25 11:59:42.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 1.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: rakannimer
+  last_updated_on: 2019-07-25 11:59:42.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source: yarn.lock
+  last_updated_by: rakannimer
+  last_updated_on: 2019-07-25 11:59:42.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: rakannimer
+  last_updated_on: 2019-07-24 14:58:26.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 12.6.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: rakannimer
+  last_updated_on: 2019-07-24 14:58:26.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 16.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: rakannimer
+  last_updated_on: 2019-07-24 14:58:26.000000000 Z
+- name: immer
+  description: Create your next immutable state by mutating the current one
+  package_url: https://www.npmjs.com/immer
+  version: 3.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16937/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: rakannimer
+  last_updated_on: 2019-07-24 14:58:26.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in immer
+    cve_id: CVE-2021-23436
+    cve_url: https://github.com/advisories/GHSA-33f9-j839-rf8h
+    detected_date: Sep 3
+    severity: critical
+    first_patched: 9.0.6
+  - name: Prototype Pollution in immer
+    cve_id: CVE-2021-3757
+    cve_url: https://github.com/advisories/GHSA-c36v-fmgq-m8hx
+    detected_date: Sep 8
+    severity: high
+    first_patched: 9.0.6
+  - name: Prototype Pollution in immer
+    cve_id: CVE-2020-28477
+    cve_url: https://github.com/advisories/GHSA-9qmh-276g-x5pj
+    detected_date: Aug 22
+    severity: high
+    first_patched: 8.0.1
+- name: nanoid
+  description: A tiny
+  package_url: https://www.npmjs.com/nanoid
+  version: 2.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17208/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: rakannimer
+  last_updated_on: 2019-07-24 14:58:26.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.8.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: package-lock.json
+  detection_source: package.json
+  last_updated_by: rakannimer
+  last_updated_on: 2019-07-24 14:58:26.000000000 Z
