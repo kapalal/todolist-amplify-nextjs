@@ -2,7 +2,7 @@ repo_name: kapalal/todolist-amplify-nextjs
 report_id: a1e7ff788a7a6b02425b8cd70e8e9a9b
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:11:12+00:00'
+timestamp: '2024-02-29T18:17:44+00:00'
 requested_by: rakannimer
 provider: github
 branch: master
@@ -33,7 +33,7 @@ tools:
   detection_source_url: https://github.com/kapalal/todolist-amplify-nextjs
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 9.0.2
   open_source: true
@@ -109,7 +109,7 @@ tools:
   detection_source_url: https://github.com/kapalal/todolist-amplify-nextjs
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.18.2
   license: MIT
